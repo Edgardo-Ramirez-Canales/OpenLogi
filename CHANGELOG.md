@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.6.15](https://github.com/AprilNEA/OpenLogi/compare/v0.6.14...v0.6.15) - 2026-06-18
+
+### Fixed
+
+- *(release)* re-register PSGallery before Windows Artifact Signing ([#264](https://github.com/AprilNEA/OpenLogi/pull/264))
+
+### Other
+
+- localize the About window update section + Crowdin sync ([#275](https://github.com/AprilNEA/OpenLogi/pull/275))
+
 ## [0.6.14](https://github.com/AprilNEA/OpenLogi/compare/openlogi-core-v0.6.13...openlogi-core-v0.6.14) - 2026-06-15
 
 ### Fixed
